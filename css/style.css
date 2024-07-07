@@ -3207,6 +3207,12 @@ ul {
     margin-top: 40px;
 }
 
+#rent-car img {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
 /* line 45, /Applications/MAMP/htdocs/palash/cl/july 2019/190 Pexcon Construction/190 Pexcon Construction html/sass/_review.scss */
 .review_part .tour_pack_text {
     width: 81%;
